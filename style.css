@@ -1,3 +1,28 @@
+body {
+    font-size : 20px;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: white;
+}
+html {
+    font-size: 10px;
+    letter-spacing:-0.2em;
+}
 h1 {
-    color:brown;
+    font-size: 4rem;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+body {
+    background-color : black;
+}
+a:link {
+    color : white;
+}
+a:visited {
+    color : white;
+}
+img {
+    max-width: 100%;
 }
